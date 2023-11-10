@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://i.postimg.cc/pXmLJMxk/coverlinkedin.png"  />
+  <img src="[https://i.postimg.cc/pXmLJMxk/coverlinkedin.png](https://firebasestorage.googleapis.com/v0/b/portifoliogit-b3610.appspot.com/o/coverlinkedin.png?alt=media&token=75176ae9-2f38-42cb-9734-43cddf556199)"  />
 </div>
 
 ## Hi there! 👋
