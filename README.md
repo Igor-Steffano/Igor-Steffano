@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="400" src="https://i.postimg.cc/pXmLJMxk/coverlinkedin.png"  />
+  <img src="https://i.postimg.cc/pXmLJMxk/coverlinkedin.png"  />
 </div>
 
 ## Hi there! 👋
